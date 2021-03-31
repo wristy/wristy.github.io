@@ -46,4 +46,4 @@ And many other features that are a joy to use.
 
 ![Python 3.10: Pattern matching](/images/pyth10aa.jpg "it's coming...")
 
-But what I like most about this course is that it teaches you to stop whining about syntax and to start focusing on semantics and idioms, which are where the meat of any programming languages lies. 
+But what I like most about this course is that it teaches you to stop whining about syntax and to start focusing on semantics and idioms, which are where the meat of any programming languages lie. 
