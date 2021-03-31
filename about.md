@@ -1,4 +1,4 @@
-# Who's Ke Wei?
+# About
 <img src="images/IMG-6564.jpg" alt="Profile Picture" width="200"/>
 
 I am an aspiring ML researcher based in Singapore. Right now, I'm serving National Service and doing nothing particularly interesting. At all.
