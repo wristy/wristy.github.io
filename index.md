@@ -1,7 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to Ke Wei's blog. If you are seeing this, I probably passed you the link to this blog. Good for you on being a Trusted Person!
 
-![Image of fast.ai logo](images/logo.png)
+# Who's Ke Wei?
+<img src="images/IMG-6564.jpg" alt="Profile Picture" width="200"/>
+I am an aspiring ML researcher based in Singapore. Right now, I'm serving National Service and doing nothing particularly interesting. At all.
+I am an incoming CS major at Georgia Tech.
 
-## This is a title
+## Learning List
+* [Programming Languages](https://www.coursera.org/learn/programming-languages-part-b) ~40% done
+* [fast.ai](https://fast.ai) ~10% done
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+This blog will get more interesting soon!
