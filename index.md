@@ -1,4 +1,4 @@
-Hello and welcome to Ke Wei's blog. If you are seeing this, I probably passed you the link to this blog. Good for you on being a Trusted Person!
+Hello and welcome to Ke Wei's blog. If you are seeing this, I probably passed you the link to this blog. Good for you on being a [True Companion](https://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions)!
 
 # Who's Ke Wei?
 <img src="images/IMG-6564.jpg" alt="Profile Picture" width="200"/>
